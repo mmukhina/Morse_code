@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\morse_code\morse_code\x64\Debug\morse_code.vcxproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\morse_code\morse_code\x64\Debug\morse_code.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\morse_code\morse_code\x64\Debug\morsecode.MainForm.resources
+C:\Users\Admin\Desktop\morse_code\morse_code\x64\Debug\morse_code.vcxproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder\morse_code\x64\Debug\morse_code.vcxproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\morse_code\x64\Debug\morse_code.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\New folder\morse_code\x64\Debug\morsecode.MainForm.resources
+C:\Users\Admin\Desktop\New folder\morse_code\x64\Debug\morse_code.vcxproj.GenerateResource.cache
+C:\Users\Admin\Desktop\code_morse\morse_code\x64\Debug\morse_code.vcxproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\code_morse\morse_code\x64\Debug\morse_code.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\code_morse\morse_code\x64\Debug\morsecode.MainForm.resources
+C:\Users\Admin\Desktop\code_morse\morse_code\x64\Debug\morse_code.vcxproj.GenerateResource.cache
